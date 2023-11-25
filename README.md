@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```markdown
 # Password Manager
 
@@ -47,3 +48,6 @@ This README provides a concise but informative overview of your project. You may
 ```
 
 This template is a starting point. Feel free to customize it according to the specifics of your project, such as adding screenshots of the application, more detailed instructions, or any additional information that might be relevant to users or contributors.
+=======
+# password_manager
+>>>>>>> e513d470c8561b63d6d3efe9f5c42105700c3b0f
