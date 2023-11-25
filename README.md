@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-```markdown
 # Password Manager
 
 ## Introduction
-This project is a password manager written in Go. It provides a secure and convenient way to store and manage passwords for various services.
+This project is a password manager written in Go. It provides a secure and convenient way to store and manage passwords for various services.  
 
 ## Features
 - Secure password storage using bcrypt for hashing.
@@ -18,9 +16,9 @@ This project is a password manager written in Go. It provides a secure and conve
 To install the password manager, clone the repository and build the project:
 
 ```bash
-git clone [repository-url]
-cd [repository-name]
-go build
+git clone https://github.com/Dreksis/password_manager.git
+cd password_manager
+go build password_manager.go
 ```
 
 ## Usage
