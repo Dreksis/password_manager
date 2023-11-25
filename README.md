@@ -36,16 +36,3 @@ Contributions to this project are welcome. Please fork the repository and submit
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-- Fyne toolkit for the GUI
-- Golang crypto package for secure password handling
-
----
-
-This README provides a concise but informative overview of your project. You may want to adjust it according to the specific features and functionalities of your password manager application.
-```
-
-This template is a starting point. Feel free to customize it according to the specifics of your project, such as adding screenshots of the application, more detailed instructions, or any additional information that might be relevant to users or contributors.
-=======
-# password_manager
->>>>>>> e513d470c8561b63d6d3efe9f5c42105700c3b0f
